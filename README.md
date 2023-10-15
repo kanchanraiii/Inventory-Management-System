@@ -1,5 +1,5 @@
 # InventoryManagementSystem
-Inventory built using Mysql, Data is accessed using Python.
+Inventory management system which utilizes python and mysql. Using Mysql DML and DDL commands we can update,delete,add,insert records in the database. 
 
 <img width="188" alt="2023-05-22" src="https://github.com/kanchanrai7/InventoryManagementSystem/assets/114416916/aa9c2e4d-a2d3-440e-86ef-7d0fd9b986a2">
 
