@@ -4,7 +4,7 @@ Inventory management system which utilizes python and mysql. Using Mysql DML and
 <img width="188" alt="2023-05-22" src="https://github.com/kanchanrai7/InventoryManagementSystem/assets/114416916/aa9c2e4d-a2d3-440e-86ef-7d0fd9b986a2">
 
 Modules in python used-
-1. Mysqlconnector.conect
+1. mysqlconnector.conect
 2. GUI Module Tkinter
 
 Some snaps of the project:)
