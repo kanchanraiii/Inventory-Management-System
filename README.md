@@ -1,7 +1,6 @@
 # InventoryManagementSystem
 Inventory management system which utilizes python and mysql. Using Mysql DML and DDL commands we can update,delete,add,insert records in the database. 
-
-<img width="188" alt="2023-05-22" src="https://github.com/kanchanrai7/InventoryManagementSystem/assets/114416916/aa9c2e4d-a2d3-440e-86ef-7d0fd9b986a2">
+This is a simple Python application that manages an inventory of products. It includes features such as adding, displaying, searching, updating, and deleting product records, and it requires authorized login for access.
 
 Modules in python used-
 1. mysqlconnector.conect
@@ -10,7 +9,7 @@ Modules in python used-
 Some snaps of the project:)
 
 
-
+<img width="188" alt="2023-05-22" src="https://github.com/kanchanrai7/InventoryManagementSystem/assets/114416916/aa9c2e4d-a2d3-440e-86ef-7d0fd9b986a2">
 
 <img width="421" alt="2023-05-22 (3)" src="https://github.com/kanchanrai7/InventoryManagementSystem/assets/114416916/2bbb7de1-45f6-4b4d-a539-ad66f38d55ad">
 
